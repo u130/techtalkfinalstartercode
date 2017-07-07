@@ -1,0 +1,38 @@
+#body {
+    height:107px; 
+    width:53px;
+    alignment-baseline: alphabetic;
+    background-color:#C0C0C0
+}
+#img2 {
+    height: 65px;
+    width:110px;
+    
+}
+#img3 {
+    width: 140px;
+    height: 140px;
+    background: #103252;
+	margin: 0 auto;
+	-webkit-transform: rotate(20deg);
+       -moz-transform: rotate(20deg);
+        -ms-transform: rotate(20deg);
+         -o-transform: rotate(20eg);
+    }
+#img4 {
+   width: 140px; 
+   height: 140px; 
+   background: #103252;
+   margin-left: 140px;
+   -webkit-transform: rotate(-45deg);
+   -moz-transform: rotate(-45deg);
+   -ms-transform: rotate(-45deg);
+   -o-transform: rotate(-45deg);
+   transform: rotate(-45deg);
+   /* Rotate Origin */
+   -webkit-transform-origin: 0 100%;
+   -moz-transform-origin: 0 100%;
+   -ms-transform-origin: 0 100%;
+   -o-transform-origin: 0 100%;
+   transform-origin: 0 100%;
+}

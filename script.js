@@ -1,6 +1,10 @@
 // JavaScript File
 // JavaScript File
-$( document ).ready(function() {
+//$( document ).ready(function() {
+//math.floor()
 
 
-});
+
+
+//*for 
+//});
